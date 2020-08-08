@@ -9,3 +9,5 @@
 ### 6. 2GB이상은 `NSIS`와 `HM NIS EDIT`로 script를 만들어서 installer 제작.
 
 * 빌드된 결과물과 코드는 소유권이 없어서 이미지로 대체합니다.
+
+<img src="https://user-images.githubusercontent.com/45477679/89711052-bd3d1080-d9c2-11ea-9737-896055a199ae.gif" />
