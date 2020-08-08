@@ -1,2 +1,2 @@
 # Make_installer
-Javascript + express + NSIS 
+Javascript + express + electron + NSIS 
